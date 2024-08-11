@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VitalEchoApplication<VitalEcho>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com._tucs212.VitalEcho.VitalEchoApplication",
+            "projectName": "VitalEcho",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
